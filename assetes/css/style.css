@@ -1,0 +1,13 @@
+#content{
+    /* cho content luôn ở đáy trang */
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+    
+}
+.container{
+    /* cho container luôn ở giữa trang */
+    position: absolute;
+    
+    
+}
