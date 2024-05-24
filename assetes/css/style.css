@@ -11,3 +11,30 @@
     
     
 }
+body{
+    position: relative;
+}
+.user-chat{
+    color: white;
+    background-color: #0084ff;
+    list-style: none;
+    /* position: absolute; */
+    right: 20px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+/* lay ra chieu cao cua user-chat */
+
+.model-chat{
+    /* cách theo chiều dọc bằng chiều cao của user-chat */
+
+    /* position: absolute; */
+    color: white;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+    left: 20px;
+    list-style: none;
+}
